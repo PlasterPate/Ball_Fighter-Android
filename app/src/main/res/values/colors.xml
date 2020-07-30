@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B71C1C</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#B71C1C</color>
+    <color name="background_color">#D2FF94</color>
+    <color name="tap_me_button_color">#57C200</color>
+    <color name="tap_me_button_pressed_color">#7CB342</color>
+    <color name="frame_color">#DFFFC9</color>
+    <color name="option_button">#00C853</color>
+    <color name="option_button_pressed">#43A047</color>
+    <color name="dark_transparent">#BF000000</color>
+    <color name="icon_color">#F1F8E9</color>
+    <color name="text_color">#1B5E20</color>
+</resources>
+
+<!--<resources>-->
+<!--<color name="colorPrimary">#2CA2CD</color>-->
+<!--<color name="colorPrimaryDark">#2A6BC5</color>-->
+<!--<color name="colorAccent">#13E8B8</color>-->
+<!--<color name="background_color">#BFE9D9</color>-->
+<!--<color name="tap_me_button_color">#1AAA95</color>-->
+<!--<color name="tap_me_button_pressed_color">#1F6F63</color>-->
+<!--<color name="frame_color">#D5E8E1</color>-->
+<!--<color name="option_button_pressed">#283593</color>-->
+<!--<color name="option_button">#0277BD</color>-->
+<!--<color name="dark_transparent">#BF000000</color>-->
+<!--</resources>-->

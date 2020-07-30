@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ball Fighter</string>
+    <string name="your_score">Your score : %s</string>
+    <string name="time_left">Time Left : %s</string>
+    <string name="tap_me">Tap Me</string>
+    <string name="final_score">You Scored\n%s</string>
+    <string name="click_when_you_are_ready">Click When You Are Ready!</string>
+</resources>
